@@ -54,7 +54,7 @@ Hai, %ucapan %name! 👋
   footer: '\n',
   after: `
 
-}
+
 `,
 }
 let handler = async (m, { conn, usedPrefix: _p }) => {
